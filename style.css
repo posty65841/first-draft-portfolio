@@ -11,7 +11,7 @@ body {
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #4743bd;
+    background-color: #020202;
     color: #ffffff;
 }
 
@@ -112,6 +112,7 @@ p {
     background-color: #9ba9d1;
     color: #0d0d0d;
     flex-wrap: wrap;
+    
 }
 
 .content2 img {
@@ -132,6 +133,9 @@ footer {
 
 h2 {
     font-size: 20px;
+}
+.float-right:hover {
+    transform: scale(1.5);
 }
 @media screen and (max-width: 992px) {
    
