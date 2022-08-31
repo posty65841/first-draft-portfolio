@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #100cf1;
+    background-color: #5552e1;
 }
 
 header {
@@ -84,12 +84,13 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #3b4690;
+    background-color: #5762a0;
 }
 
 .benefit {
     margin-bottom: 32px;
     color: #040404;
+    flex-wrap: wrap;
 }
 
 .benefit h3 {
@@ -108,8 +109,9 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #3b5292;
+    background-color: #9ba9d1;
     color: #0d0d0d;
+    flex-wrap: wrap;
 }
 
 .content2 img {
